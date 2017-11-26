@@ -1,7 +1,7 @@
 {
-  "name": "worksharp.gr",
+  "name": "healthy-products",
   "version": "1.0.0",
-  "description": "nextcommercer-kalkantzakos",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iCantWriteCode/Kalkantzakos-Website.git"
+    "url": "git+https://github.com/iCantWriteCode/healty_products_deaxeiristiko"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iCantWriteCode/Kalkantzakos-Website/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/iCantWriteCode/Kalkantzakos-Website#readme",
+  "homepage": "https://github.com/iCantWriteCode/healty_products_deaxeiristiko#readme",
   "dependencies": {
     "ejs": "^2.5.6",
     "express": "^4.15.3"
